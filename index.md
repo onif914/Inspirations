@@ -3,8 +3,8 @@ layour:default
 title: "reading"
 ---
 **Journals**
-- IEEE Transactions on Neural Systems and Rehabilitation Engineering
-- Frontiers in Neuroscience
+- [IEEE Transactions on Neural Systems and Rehabilitation Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)
+- [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
 - IEEE Access
 - Sensors
 - Journal of NeuroEngineering and Rehabilitation
