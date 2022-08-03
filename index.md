@@ -2,7 +2,7 @@
 layour:default
 title: "reading"
 ---
-<b>Journals<\b>
+#Journals
 IEEE Transactions on Neural Systems and Rehabilitation Engineering
 Frontiers in Neuroscience
 IEEE Access
