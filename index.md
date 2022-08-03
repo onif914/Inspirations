@@ -5,7 +5,7 @@ title: "reading"
 **Journals**
 - [IEEE Transactions on Neural Systems and Rehabilitation Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)
 - [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
-- IEEE Access
+- [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
 - Sensors
 - Journal of NeuroEngineering and Rehabilitation
 - IEEE Transactions on Biomedical Engineering
