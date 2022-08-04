@@ -13,7 +13,6 @@ title: "reading"
 - Scientific Reports
 
 **Conference**
-- Annual International Conferences of the IEEE Engineering in Medicine and Biology Society
 - IEEE EMBS Conference on Neural Engineering
 - Annual Meeting of Society for Neuroscience (SfN)
 - IEEE Engineering in Medicine and Biology Society
