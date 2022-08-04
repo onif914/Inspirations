@@ -16,4 +16,4 @@ title: "reading"
 - IEEE EMBS Conference on Neural Engineering (NER)
 - Annual Meeting of Society for Neuroscience (SfN)
 - IEEE Engineering in Medicine and Biology Society (EMBS)
-- [a kiwi call for papers](http://www.wikicfp.com/cfp/)
+- [Wiki call for papers](http://www.wikicfp.com/cfp/)
