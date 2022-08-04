@@ -7,7 +7,7 @@ title: "reading"
 - [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
 - [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
 - Sensors
-- Journal of NeuroEngineering and Rehabilitation
+- [Journal of NeuroEngineering and Rehabilitation](https://jneuroengrehab.biomedcentral.com/)
 - IEEE Transactions on Biomedical Engineering
 - Journal of the Royal Society Interface
 - Scientific Reports
