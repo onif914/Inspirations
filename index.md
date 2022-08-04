@@ -3,14 +3,17 @@ layour:default
 title: "reading"
 ---
 **Journals**
-- [IEEE Transactions on Neural Systems and Rehabilitation Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)
 - [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
 - [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
 - [Sensors](https://www.mdpi.com/journal/sensors)
 - [Journal of NeuroEngineering and Rehabilitation](https://jneuroengrehab.biomedcentral.com/)
-- [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
 - [Journal of the Royal Society Interface](https://royalsocietypublishing.org/journal/rsif)
 - [Scientific Reports](https://www.nature.com/srep/)
+- [Science Translational Medicine](https://www.science.org/journal/stm?cookieSet=1)
+- [IEEE Transactions on Neural Systems and Rehabilitation Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333)
+- [IEEE Transactions on Biomedical Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4156126)
+- [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
+- [IEEE Transactions on Information Technology in Biomedicine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4233)
 
 **Conference**
 - IEEE EMBS Conference on Neural Engineering (NER)
