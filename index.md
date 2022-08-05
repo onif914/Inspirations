@@ -16,6 +16,7 @@ title: "reading"
 - [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
 - [IEEE Transactions on Information Technology in Biomedicine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4233)
 - [IEEE Journal of Translational Engineering in Health and Medicine](https://www.embs.org/jtehm/)
+- [Journal of NeuroEngineering and Rehabilitation](https://jneuroengrehab.biomedcentral.com/)
 
 **Conference**
 - IEEE EMBS Conference on Neural Engineering (NER)
