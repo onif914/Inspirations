@@ -16,6 +16,9 @@ title: "reading"
 - [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
 - [IEEE Transactions on Information Technology in Biomedicine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4233)
 - [IEEE Journal of Translational Engineering in Health and Medicine](https://www.embs.org/jtehm/)
+- [Current Opinion in Neurobiology](https://www.sciencedirect.com/journal/current-opinion-in-neurobiology/vol/76/suppl/C)
+- [Nature](https://www.nature.com/)
+- [Science](https://www.science.org/)
 
 
 **Conference**
