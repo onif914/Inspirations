@@ -19,13 +19,19 @@ title: "reading"
 - [Current Opinion in Neurobiology](https://www.sciencedirect.com/journal/current-opinion-in-neurobiology/vol/76/suppl/C)
 - [Nature](https://www.nature.com/)
 - [Science](https://www.science.org/)
+- [Virtual Reality](https://www.springer.com/journal/10055)
 
 
 **Conference**
 - IEEE EMBS Conference on Neural Engineering (NER)
 - Annual Meeting of Society for Neuroscience (SfN)
 - IEEE Engineering in Medicine and Biology Society (EMBS)
+- [ACM: International Multimedia Conference](https://dl.acm.org/conference/mm)
+  - (Example paper: Robust hand gesture recognition with kinect sensor)
+- [ACM: Motion in Games](https://dl.acm.org/conference/mig)
+  - (Example paper: A VR Game-based System for Multimodal Emotion Data Collection)
 - [Wiki call for papers](http://www.wikicfp.com/cfp/)
+- [ACM conferences](https://dl.acm.org/conferences)
 
 **Other journal options**
 - [Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=tciv20)
