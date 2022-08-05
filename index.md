@@ -20,3 +20,7 @@ title: "reading"
 - Annual Meeting of Society for Neuroscience (SfN)
 - IEEE Engineering in Medicine and Biology Society (EMBS)
 - [Wiki call for papers](http://www.wikicfp.com/cfp/)
+
+**Other journal options**
+- Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization 
+  - (IF-2.269, 57 days avg. from submission to first decision)
