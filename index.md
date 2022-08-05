@@ -25,3 +25,5 @@ title: "reading"
 **Other journal options**
 - [Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=tciv20)
   - (IF-2.269, 57 days avg. from submission to first decision, 36% accept rate)
+- [arXiv.org](https://arxiv.org/)
+- [bioRxiv](https://www.biorxiv.org/)
