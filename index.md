@@ -20,6 +20,7 @@ title: "reading"
 - [Nature](https://www.nature.com/)
 - [Science](https://www.science.org/)
 - [Virtual Reality](https://www.springer.com/journal/10055)
+- [Nature Neuroscience](https://www.nature.com/neuro/research-articles)
 
 
 **Conference**
