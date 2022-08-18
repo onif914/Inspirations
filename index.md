@@ -33,6 +33,7 @@ title: "reading"
   - (Example paper: A VR Game-based System for Multimodal Emotion Data Collection)
 - [Wiki call for papers](http://www.wikicfp.com/cfp/)
 - [ACM conferences](https://dl.acm.org/conferences)
+- [Neuromodec](https://neuromodec.org)
 
 **Other journal options**
 - [Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=tciv20)
