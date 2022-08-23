@@ -42,5 +42,6 @@ title: "reading"
   - (IF-2.269, 57 days avg. from submission to first decision, 36% accept rate)
 - [Medical & Biological Engineering & Computing](https://www.springer.com/journal/11517)
   - (IF-3.079, 122 days submission to first decision)
+- [ACM Transactions on Computing for Healthcare](https://dl.acm.org/journal/health)
 - [arXiv.org](https://arxiv.org/)
 - [bioRxiv](https://www.biorxiv.org/)
