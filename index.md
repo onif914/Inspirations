@@ -35,6 +35,7 @@ title: "reading"
 - [Wiki call for papers](http://www.wikicfp.com/cfp/)
 - [ACM conferences](https://dl.acm.org/conferences)
 - [Neuromodec](https://neuromodec.org)
+- [International Conference on Knowledge and Smart Technology]
 
 **Other journal options**
 - [Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=tciv20)
