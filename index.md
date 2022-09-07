@@ -37,6 +37,7 @@ title: "reading"
 - [Neuromodec](https://neuromodec.org)
 - International Conference on Knowledge and Smart Technology(KST)
 - [CSUN Assistive Technology Conference](https://www.csun.edu/cod/conference/sessions/index.php/)
+- [conference Index](https://conferenceindex.org/)
 
 **Other journal options**
 - [Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=tciv20)
