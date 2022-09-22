@@ -2,6 +2,8 @@
 layour:default
 title: "reading"
 ---
+**Applying Signal conditioning in research**
+- [Slides](https://docs.google.com/presentation/d/1yfTiVgG11OJyodFzqhVmtRYBK29Zuum-/edit?usp=sharing&ouid=109460573329931604647&rtpof=true&sd=true)
 **Journals**
 - [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
 - [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
