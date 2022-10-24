@@ -2,7 +2,7 @@
 layour:default
 title: "reading"
 ---
-**Applying Signal conditioning in research**
+**KellyJ's homepage**
 - [Guest lecture Slides](https://docs.google.com/presentation/d/1yfTiVgG11OJyodFzqhVmtRYBK29Zuum-/edit?usp=sharing&ouid=109460573329931604647&rtpof=true&sd=true)
 - [Online EV scheduling](https://docs.google.com/presentation/d/1d7UHq4GB7jhQtLanUzdrkQhYbzlaM8a6/edit?usp=sharing&ouid=109460573329931604647&rtpof=true&sd=true)
 - 
