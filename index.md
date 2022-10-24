@@ -3,8 +3,9 @@ layour:default
 title: "reading"
 ---
 **Applying Signal conditioning in research**
-- [Guest lecture: Slides](https://docs.google.com/presentation/d/1yfTiVgG11OJyodFzqhVmtRYBK29Zuum-/edit?usp=sharing&ouid=109460573329931604647&rtpof=true&sd=true)
+- [Guest lecture Slides](https://docs.google.com/presentation/d/1yfTiVgG11OJyodFzqhVmtRYBK29Zuum-/edit?usp=sharing&ouid=109460573329931604647&rtpof=true&sd=true)
 - [Online EV scheduling](https://docs.google.com/presentation/d/1d7UHq4GB7jhQtLanUzdrkQhYbzlaM8a6/edit#slide=id.g1726448aae3_1_1)
+- 
 **Journals**
 - [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
 - [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
