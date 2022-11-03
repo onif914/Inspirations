@@ -2,10 +2,10 @@
 layour:default
 title: "reading"
 ---
-**KellyJ's homepage**
+**Slides**
 - [Guest lecture Slides](https://docs.google.com/presentation/d/1yfTiVgG11OJyodFzqhVmtRYBK29Zuum-/edit?usp=sharing&ouid=109460573329931604647&rtpof=true&sd=true)
-- [Online EV scheduling](https://docs.google.com/presentation/d/1d7UHq4GB7jhQtLanUzdrkQhYbzlaM8a6/edit?usp=sharing&ouid=109460573329931604647&rtpof=true&sd=true)
-- 
+- [Online EV scheduling - ECEN 689 online decision making midterm](https://docs.google.com/presentation/d/1d7UHq4GB7jhQtLanUzdrkQhYbzlaM8a6/edit?usp=sharing&ouid=109460573329931604647&rtpof=true&sd=true)
+- [Velostim]()
 **Journals**
 - [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience)
 - [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)
