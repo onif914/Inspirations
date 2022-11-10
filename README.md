@@ -32,16 +32,16 @@ I am working on developing bi-directional human-centered assistive technology fo
 ## Research Projects
 
 ### Tongue-controller as hands-free assistive technology (an intraoral module)
-```yaml
+
 I have develop an “intraoral module” for tongue-controlled assistive technologies. 
 And tested it’s basic functionality by doing some some computer access tasks.
 To test the basic functionality of computer access, we tested with 11 subjects for: 
-- Random command task.
+- Random command task(Target command appeared on the screen in random order, participants need to issue the corresponding command as fast and accurate as possible).
 - Maze navigation task(guide cursor from start to end as fast and accurate as possible). 
 The result of Maze navigation showed that the average completion time of eleven participants was much faster than SNP, as good as TDS.
 With this design, the tongue movement inside the mouth can be successfully translated into directional commands for navigation tasks.
-```
-![image](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
+
+![image](https://drive.google.com/file/d/1LwIyXkFnIn7sDvL0PwntPXwUSfwawS_i/view?usp=share_link)
 
 Note: to enable icons you also need to copy over the `_data` folder.
 
