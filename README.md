@@ -10,23 +10,23 @@ I am working on developing bi-directional human-centered assistive technology fo
 
 ## Eduaction
 
-- Texas A&M University, College Station								    Spring 2019 - Summer 2023
+- **Texas A&M University, College Station**								    Spring 2019 - Summer 2023
 - Ph.D. in Electrical Engineering
 - *Thesis: Multifunctional Intraoral Assistive Technology Driven by Bidirectional Human Machine Interface* 
 - *Advisor: Hangue Park (Chair), Joenghee Kim (Co-chair)*
-- Texas A&M University, College Station										   Fall 2016 - Fall 2018
+- **Texas A&M University, College Station**										   Fall 2016 - Fall 2018
 - Master of Computer Science	
 
 
 ## Experience
 
-- Quantitative Neuro Rehabilitation Lab, Texas A&M University    	 			Spring 2019 - present
+- **Quantitative Neuro Rehabilitation Lab, Texas A&M University**    	 			Spring 2019 - present
 - Graduate Research Assistant
-- Integrated Neuro-Prosthesis Lab, Texas A&M University   	  		 			   Fall 2018 - Present
+- **Integrated Neuro-Prosthesis Lab, Texas A&M University**   	  		 			   Fall 2018 - Present
 - Graduate Research Assistant
-- Arbin Instruments, Texas										    			                           01/2018 - 04/2018
+- **Arbin Instruments, Texas**										    			                           01/2018 - 04/2018
 - Software Engineering Intern
-- Center for Bioinformatics and Genomic Systems Engineering, Texas A&M University		07/2017 - 10/2017
+- **Center for Bioinformatics and Genomic Systems Engineering, Texas A&M University**		07/2017 - 10/2017
 - Graduate Student Researcher 
 
 ## Research Projects
