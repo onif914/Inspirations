@@ -1,36 +1,35 @@
 ---
-title: "About"
+title: "Bing Jiang (Kelly)"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## About me
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+I am working on developing bi-directional human-centered assistive technology for people with severe disability, VR-based system for healthcare applications, and designing experiment, interviews and questionnaires to evaluate system usability as well as the human factor. I am also interested in integrating sensory (e.g., haptic, vibrotactile, electrotactile) feedback for human motor learning and rehabilitation, and developing multi-sensor system to monitor user’s sleep quality. I am familiar with rapid prototype, embedded system development, and methods for quantitative and qualitative human-machine interaction evaluation.
 
-## Features
+## Eduaction
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+- Texas A&M University, College Station								    Spring 2019 - Summer 2023
+- Ph.D. in Electrical Engineering
+- *Thesis: Multifunctional Intraoral Assistive Technology Driven by Bidirectional Human Machine Interface* 
+- *Advisor: Hangue Park (Chair), Joenghee Kim (Co-chair)*
+- Texas A&M University, College Station										   Fall 2016 - Fall 2018
+- Master of Computer Science	
 
-## Based on
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+## Experience
 
-## Installation (jekyll-remote-theme method)
+- Quantitative Neuro Rehabilitation Lab, Texas A&M University    	 			Spring 2019 - present
+- Graduate Research Assistant
+- Integrated Neuro-Prosthesis Lab, Texas A&M University   	  		 			   Fall 2018 - Present
+- Graduate Research Assistant
+- Arbin Instruments, Texas										    			                           01/2018 - 04/2018
+- Software Engineering Intern
+- Center for Bioinformatics and Genomic Systems Engineering, Texas A&M University		07/2017 - 10/2017
+- Graduate Student Researcher 
+
+## Research Projects
 
 You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
 
