@@ -41,7 +41,7 @@ To test the basic functionality of computer access, we tested with 11 subjects f
 The result of Maze navigation showed that the average completion time of eleven participants was much faster than SNP, as good as TDS.
 With this design, the tongue movement inside the mouth can be successfully translated into directional commands for navigation tasks.
 
-![image](1_MORA.PNG)
+![image](1_MORA.png)
 
 Note: to enable icons you also need to copy over the `_data` folder.
 
