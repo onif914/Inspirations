@@ -32,7 +32,7 @@ I am working on developing bi-directional human-centered assistive technology fo
 ## Research Projects
 
 ### Tongue-controller as hands-free assistive technology (an intraoral module)
-> > Assistive technology; Human-computer interface; Biomedical device; Hands-free controller; Embedded system development
+> Assistive technology; Human-computer interface; Biomedical device; Hands-free controller; Embedded system development
 ![image](1_MORA.png)
 > 
 > I have develop an “intraoral module” for tongue-controlled assistive technologies. And tested it’s basic functionality by doing some some computer access tasks.
