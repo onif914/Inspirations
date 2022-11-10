@@ -33,10 +33,7 @@ I am working on developing bi-directional human-centered assistive technology fo
 
 
 
-```yaml
 ### Tongue-controller as hands-free assistive technology (an intraoral module)
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
 ![image](To test the basic functionality of computer access, we also tested with 11 subjects for: 
 Random command task and maze navigation task(guide cursor from start to end as fast and accurate as possible). 
 Maze navigation , average completion time of eleven participants, the result showing That MORA is much better than SNP, as good as TDS
@@ -56,8 +53,6 @@ With this design, the tongue movement inside the mouth can be successfully trans
 
 
 
-
-```
 
 Note: to enable icons you also need to copy over the `_data` folder.
 
