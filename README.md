@@ -31,27 +31,14 @@ I am working on developing bi-directional human-centered assistive technology fo
 
 ## Research Projects
 
-
-
 ### Tongue-controller as hands-free assistive technology (an intraoral module)
-![image](To test the basic functionality of computer access, we also tested with 11 subjects for: 
-Random command task and maze navigation task(guide cursor from start to end as fast and accurate as possible). 
-Maze navigation , average completion time of eleven participants, the result showing That MORA is much better than SNP, as good as TDS
-With this design, the tongue movement inside the mouth can be successfully translated into directional commands for navigation tasks.
-![image](https://user-images.githubusercontent.com/47716688/201212744-21b33d90-61b1-4962-a681-d1ae6ba9d6df.png){: style="float: left"; margin-right: 10em; height="25%" width="25%"} 
-I have develop an “intraoral module” for tongue-controlled assistive technologies. And tested it’s basic functionality by doing some some computer access tasks.
-To test the basic functionality of computer access, we also tested with 11 subjects for: 
-- Random command task
+I have develop an “intraoral module” for tongue-controlled assistive technologies. 
+And tested it’s basic functionality by doing some some computer access tasks.
+To test the basic functionality of computer access, we tested with 11 subjects for: 
+- Random command task.
 - Maze navigation task(guide cursor from start to end as fast and accurate as possible). 
 The result of Maze navigation showed that the average completion time of eleven participants was much faster than SNP, as good as TDS.
 With this design, the tongue movement inside the mouth can be successfully translated into directional commands for navigation tasks.
-![image](https://user-images.githubusercontent.com/47716688/201212153-eb8c1093-b287-4513-a2e6-8ea37a3e8f12.png)
-
-![image](https://user-images.githubusercontent.com/47716688/201212012-63f50460-d50d-43f7-81dc-fc8852446d09.png)
-
-## Some Text On Left!<br>Some Text On Left!<br><br>Some Text On Left!Some Text On Left!Some Text
-
-
 
 
 Note: to enable icons you also need to copy over the `_data` folder.
