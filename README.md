@@ -32,14 +32,14 @@ I am working on developing bi-directional human-centered assistive technology fo
 ## Research Projects
 
 > ### Tongue-controller as hands-free assistive technology (an intraoral module)
-
-I have develop an “intraoral module” for tongue-controlled assistive technologies. 
-And tested it’s basic functionality by doing some some computer access tasks.
-To test the basic functionality of computer access, we tested with 11 subjects for: 
-- Random command task(Target command appeared on the screen in random order, participants need to issue the corresponding command as fast and accurate as possible).
-- Maze navigation task(guide cursor from start to end as fast and accurate as possible). 
-The result of Maze navigation showed that the average completion time of eleven participants was much faster than SNP, as good as TDS.
-With this design, the tongue movement inside the mouth can be successfully translated into directional commands for navigation tasks.
+> ** Assistive technology, human-computer interface, biomedical device, hands-free controller, embedded system development**
+> I have develop an “intraoral module” for tongue-controlled assistive technologies. 
+> And tested it’s basic functionality by doing some some computer access tasks.
+> To test the basic functionality of computer access, we tested with 11 subjects for: 
+> - Random command task(Target command appeared on the screen in random order, participants need to issue the corresponding command as fast and accurate as possible).
+> - Maze navigation task(guide cursor from start to end as fast and accurate as possible). 
+> The result of Maze navigation showed that the average completion time of eleven participants was much faster than SNP, as good as TDS.
+> With this design, the tongue movement inside the mouth can be successfully translated into directional commands for navigation tasks.
 
 ![image](1_MORA.png)
 
