@@ -10,11 +10,11 @@ I am working on developing bi-directional human-machine interface for people wit
 
 ## Eduaction
 
-- **Texas A&M University, College Station**								    Spring 2019 - Summer 2023
+- **Texas A&M University, College Station**     Spring 2019 - Summer 2023
 - Ph.D. in Electrical Engineering
 - *Thesis: Multifunctional Intraoral Assistive Technology Driven by Bidirectional Human Machine Interface* 
 - *Advisor: Hangue Park (Chair), Joenghee Kim (Co-chair)*
-- **Texas A&M University, College Station**										   Fall 2016 - Fall 2018
+- **Texas A&M University, College Station**			Fall 2016 - Fall 2018
 - Master of Computer Science	
 
 
