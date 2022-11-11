@@ -31,7 +31,7 @@ I am working on developing bi-directional human-machine interface for people wit
 
 ## Research Projects
 
-### Tongue-controller as hands-free assistive technology (an intraoral module)
+### Tongue-controlled hands-free assistive technology (an intraoral module)
 > 
 ![image](1_MORA.png)
 > 
