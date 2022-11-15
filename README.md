@@ -40,7 +40,7 @@ I am working on developing bi-directional human-machine interface for people wit
 > 
 > `Assistive technology` `Human-computer interface` `Biomedical device` `Hands-free controller` `Embedded system development`
 >
-### MULTIFUNCTIONAL INTRAORAL ASSISTIVE TECHNOLOGY (MORA) WITH INTUITIVE INTRAORAL COMMANDS AND SENSORY FEEDBACK
+### Multifunctional Intraoral Assistive technology (MORA) with intuitive intraoral commands and sensory feedback
 > 
 ![image](assets/2_MORA.PNG)
 > 
