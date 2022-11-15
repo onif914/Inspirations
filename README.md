@@ -66,7 +66,7 @@ The advantages of intraoral assistive technology:
 >
 ### Speech therapy using real-time closed-loop artificial feedback to the tongue 
 > 
-![image](assets/Speech_therapy.PNG)
+![image](assets/TML.PNG)
 > 
 > The purpose of this studyobj was to investigate sensory feedback for tongue command learning. To avoid the Midas touch effect, tongue commands are usually defined in a complex way to avoid confusion with the daily oral activities, these new tongue movement require a lot of training. To find the more effective way to training the tongue to learn new command, my objective was to test the effectiveness of visual and tactile assistance on tongue motor learning and motor control. A closed loop wearable intraoral device was developed to provide electrotactile and visual feedback. A dental retaienr was custom=-made for each subject. The dental retainer consists of an electrodes array. 
 > For visual training, an array of LEDs was shown on the computer screen, When one electrode was contacted, the corresponding LED would lighten up. The further away from the target, the brighter the color of the LED. By this visual cue, they need to find the target location by their tongue tip. For tactile training, different frequency electrical stimulation was provided to the tongue. The further away from the target, the higher the stimulation frequency. By the tactile sensation, they need to find the target location.
