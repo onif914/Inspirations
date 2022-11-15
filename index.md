@@ -45,6 +45,7 @@ title: "reading"
 - [conference Index](https://conferenceindex.org/)
 - [InInternational Conference on Human Haptic Sensing and Touch Enabled Computer Applications](https://link.springer.com/conference/eurohaptics)
 - [world haptics conference](https://2021.worldhaptics.org/)
+- [biomedical conference index](https://conferenceindex.org/conferences/biomedical)
 
 **Other journal options**
 - [Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=tciv20)
