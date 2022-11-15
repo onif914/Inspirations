@@ -42,7 +42,7 @@ I am working on developing bi-directional human-machine interface for people wit
 >
 ### MULTIFUNCTIONAL INTRAORAL ASSISTIVE TECHNOLOGY (MORA) WITH INTUITIVE INTRAORAL COMMANDS AND SENSORY FEEDBACK
 > 
-![image](assets/MORA_2.PNG)
+![image](assets/2_MORA.PNG)
 > 
 > We proposed a Multifunctional intraORal Assistive technology (MORA) that allows users to control the cursor on the screen by intuitive user-defined tongue commands
 without any add-on tracers, and provides sensory feedback to further enhance the intuitiveness of the tongue control. We expect the enhanced intuitiveness of the
@@ -58,7 +58,7 @@ The advantages of intraoral assistive technology:
 >
 ### Speech therapy using real-time closed-loop artificial feedback to the tongue 
 > 
-![image](assets/MORA_2.PNG)
+![image](assets/Speech_therapy.PNG)
 > 
 > The purpose of this study was to investigate the importance of providing an error-augmented sensory feedback with proper spatiotemporal resolution for training and enhancing complex tongue motor coordination during speech. We present a wearable intraoral system that uses (1) an intraoral palatal retainer to monitor the tongue movement by optical distance sensors and (2) to provide sensory feedback to the tongue by stimulators. If the subject contacts the undesired palatal area during pronunciation, they will get the stimulation as an error feedback on their tongue tip. The result justified our hypothesis that intrinsic sensory feedback can be an effective way for tongue motor learning in speech therapy.
 > 
@@ -66,65 +66,12 @@ The advantages of intraoral assistive technology:
 >
 ### Speech therapy using real-time closed-loop artificial feedback to the tongue 
 > 
-![image](assets/MORA_2.PNG)
+![image](assets/Speech_therapy.PNG)
 > 
-> The purpose of this study was to investigate the importance of providing an error-augmented sensory feedback with proper spatiotemporal resolution for training and enhancing complex tongue motor coordination during speech. We present a wearable intraoral system that uses (1) an intraoral palatal retainer to monitor the tongue movement by optical distance sensors and (2) to provide sensory feedback to the tongue by stimulators. If the subject contacts the undesired palatal area during pronunciation, they will get the stimulation as an error feedback on their tongue tip. The result justified our hypothesis that intrinsic sensory feedback can be an effective way for tongue motor learning in speech therapy.
+> The purpose of this studyobj was to investigate sensory feedback for tongue command learning. To avoid the Midas touch effect, tongue commands are usually defined in a complex way to avoid confusion with the daily oral activities, these new tongue movement require a lot of training. To find the more effective way to training the tongue to learn new command, my objective was to test the effectiveness of visual and tactile assistance on tongue motor learning and motor control. A closed loop wearable intraoral device was developed to provide electrotactile and visual feedback. A dental retaienr was custom=-made for each subject. The dental retainer consists of an electrodes array. 
+> For visual training, an array of LEDs was shown on the computer screen, When one electrode was contacted, the corresponding LED would lighten up. The further away from the target, the brighter the color of the LED. By this visual cue, they need to find the target location by their tongue tip. For tactile training, different frequency electrical stimulation was provided to the tongue. The further away from the target, the higher the stimulation frequency. By the tactile sensation, they need to find the target location.
+> The result shows that both tactile and visual feedback improved tongue motor control ability. But looking at the post training session, tactile training leads to stronger retention than visual training. And although not significant, but tactile training reached learning plateau after 6 trails of trainig, whereas visual groups took 11 trials, suggesting that subjects are learning faster with tactile feedback.
 > 
-> `Error-augmented sensory feedbcak` `Tongue motor control` `Speech therapy` `Embedded system development` `Closed-loop system`
+> `Electrotactile feedback` `Visual feedback` `Motor learning` `tongue` `Electrical stimulation` `Intraoral device` `Augmenting sensory feedbcak` 
 >
 
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
