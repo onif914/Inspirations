@@ -40,7 +40,7 @@ I am working on developing bi-directional human-machine interface for people wit
 > 
 > `Assistive technology` `Human-computer interface` `Biomedical device` `Hands-free controller` `Embedded system development`
 >
-### Multifunctional 
+### MULTIFUNCTIONAL INTRAORAL ASSISTIVE TECHNOLOGY (MORA) WITH INTUITIVE INTRAORAL COMMANDS AND SENSORY FEEDBACK
 > 
 ![image](assets/MORA_2.PNG)
 > 
@@ -54,7 +54,23 @@ The advantages of intraoral assistive technology:
   • Intraoral muscle don’t fatigue as fast as other muscles.
   • Intraoral organs are controlled by cranial nerves, which is hardly damaged by SCI.
 > 
-> `Multifunctional assistive technology` `Intuitive command design`,  `Biomedical device` `Hands-free controller`, `Embedded system development`, `Bidrectional Human-computer interface`
+> `Multifunctional assistive technology` `Intuitive command design`  `Biomedical device` `Hands-free controller` `Embedded system development` `Bidrectional Human-computer interface`
+>
+### Speech therapy using real-time closed-loop artificial feedback to the tongue 
+> 
+![image](assets/MORA_2.PNG)
+> 
+> The purpose of this study was to investigate the importance of providing an error-augmented sensory feedback with proper spatiotemporal resolution for training and enhancing complex tongue motor coordination during speech. We present a wearable intraoral system that uses (1) an intraoral palatal retainer to monitor the tongue movement by optical distance sensors and (2) to provide sensory feedback to the tongue by stimulators. If the subject contacts the undesired palatal area during pronunciation, they will get the stimulation as an error feedback on their tongue tip. The result justified our hypothesis that intrinsic sensory feedback can be an effective way for tongue motor learning in speech therapy.
+> 
+> `Error-augmented sensory feedbcak` `Tongue motor control` `Speech therapy` `Embedded system development` `Closed-loop system`
+>
+### Speech therapy using real-time closed-loop artificial feedback to the tongue 
+> 
+![image](assets/MORA_2.PNG)
+> 
+> The purpose of this study was to investigate the importance of providing an error-augmented sensory feedback with proper spatiotemporal resolution for training and enhancing complex tongue motor coordination during speech. We present a wearable intraoral system that uses (1) an intraoral palatal retainer to monitor the tongue movement by optical distance sensors and (2) to provide sensory feedback to the tongue by stimulators. If the subject contacts the undesired palatal area during pronunciation, they will get the stimulation as an error feedback on their tongue tip. The result justified our hypothesis that intrinsic sensory feedback can be an effective way for tongue motor learning in speech therapy.
+> 
+> `Error-augmented sensory feedbcak` `Tongue motor control` `Speech therapy` `Embedded system development` `Closed-loop system`
 >
 
 
