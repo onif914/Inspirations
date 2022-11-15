@@ -42,7 +42,7 @@ I am working on developing bi-directional human-machine interface for people wit
 >
 ### Multifunctional 
 > 
-![image](onif914.github.io/assets/1_MORA.png)
+![image](assets/1_MORA.png)
 > 
 > We proposed a Multifunctional intraORal Assistive technology (MORA) that allows users to control the cursor on the screen by intuitive user-defined tongue commands
 without any add-on tracers, and provides sensory feedback to further enhance the intuitiveness of the tongue control. We expect the enhanced intuitiveness of the
