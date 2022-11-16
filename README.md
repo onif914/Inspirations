@@ -35,8 +35,8 @@ I am working on developing bi-directional human-machine interface for people wit
 
 > 
 ![image](assets/2_MORA.PNG)
-> 
-> We proposed a Multifunctional intraORal Assistive technology (MORA) that allows users to control the cursor on the screen by intuitive user-defined tongue commands
+
+- We proposed a Multifunctional intraORal Assistive technology (MORA) that allows users to control the cursor on the screen by intuitive user-defined tongue commands
 without any add-on tracers, and provides sensory feedback to further enhance the intuitiveness of the tongue control. We expect the enhanced intuitiveness of the
 proposed AT will increase its acceptability to the people with severe disability. 
 The advantages of intraoral assistive technology:
@@ -45,8 +45,8 @@ The advantages of intraoral assistive technology:
   • Robust, therefore less likely to be effected by the environment.
   • Intraoral muscle don’t fatigue as fast as other muscles.
   • Intraoral organs are controlled by cranial nerves, which is hardly damaged by SCI.
-> 
-> `Multifunctional assistive technology` `Intuitive command design`  `Biomedical device` `Hands-free controller` `Embedded system development` `Bidrectional Human-computer interface`
+
+`Multifunctional assistive technology` `Intuitive command design`  `Biomedical device` `Hands-free controller` `Embedded system development` `Bidrectional Human-computer interface`
 
 ---
 ### Tongue-controlled hands-free assistive technology (intraoral module for MORA)
@@ -63,8 +63,8 @@ The advantages of intraoral assistive technology:
  
 ![image](assets/HWI.PNG)
  
-  • I am working on developing a MORA-powered wheelchair (PWC) system for hands-free powered wheelchair pilot.
-  • Piloting the powered wheelchair without training is dangerous task, especially for hands-free controllers. When unintentional commands are given, a novice user may Colliding with Obstacles and get injured. Therefore we developed a VR wheelchair training environment.
+- I am working on developing a MORA-powered wheelchair (PWC) system for hands-free powered wheelchair pilot.
+- Piloting the powered wheelchair without training is dangerous task, especially for hands-free controllers. When unintentional commands are given, a novice user may Colliding with Obstacles and get injured. Therefore we developed a VR wheelchair training environment.
 
 `Virtual reality` `Human-computer interface` `Biomedical device` `Hands-free controller` `Embedded system development`
 
@@ -73,8 +73,8 @@ The advantages of intraoral assistive technology:
  
 ![image](assets/Speech_therapy.PNG)
  
-  • The purpose of this study was to investigate the importance of providing an error-augmented sensory feedback with proper spatiotemporal resolution for training and enhancing complex tongue motor coordination during speech. 
-  • We present a wearable intraoral system that uses (1) an intraoral palatal retainer to monitor the tongue movement by optical distance sensors and (2) to provide sensory feedback to the tongue by stimulators. If the subject contacts the undesired palatal area during pronunciation, they will get the stimulation as an error feedback on their tongue tip. The result justified our hypothesis that intrinsic sensory feedback can be an effective way for tongue motor learning in speech therapy.
+- The purpose of this study was to investigate the importance of providing an error-augmented sensory feedback with proper spatiotemporal resolution for training and enhancing complex tongue motor coordination during speech. 
+- We present a wearable intraoral system that uses (1) an intraoral palatal retainer to monitor the tongue movement by optical distance sensors and (2) to provide sensory feedback to the tongue by stimulators. If the subject contacts the undesired palatal area during pronunciation, they will get the stimulation as an error feedback on their tongue tip. The result justified our hypothesis that intrinsic sensory feedback can be an effective way for tongue motor learning in speech therapy.
 
 `Error-augmented sensory feedbcak` `Tongue motor control` `Speech therapy` `Embedded system development` `Closed-loop system`
 
@@ -83,9 +83,9 @@ The advantages of intraoral assistive technology:
 
 ![image](assets/TML.PNG)
 
-  • To avoid the Midas touch effect, tongue commands are usually defined in a complex way to avoid confusion with the daily oral activities, these new tongue movement require a lot of training. To find the more effective way to training the tongue to learn new command, my objective was to test the effectiveness of visual and tactile assistance on tongue motor learning and motor control. A closed loop wearable intraoral device was developed to provide electrotactile and visual feedback. A dental retaienr was custom=-made for each subject. The dental retainer consists of an electrodes array. 
-  • For visual training, an array of LEDs was shown on the computer screen, When one electrode was contacted, the corresponding LED would lighten up. The further away from the target, the brighter the color of the LED. By this visual cue, they need to find the target location by their tongue tip. For tactile training, different frequency electrical stimulation was provided to the tongue. The further away from the target, the higher the stimulation frequency. By the tactile sensation, they need to find the target location.
-  • The result shows that both tactile and visual feedback improved tongue motor control ability. But looking at the post training session, tactile training leads to stronger retention than visual training. And although not significant, but tactile training reached learning plateau after 6 trails of trainig, whereas visual groups took 11 trials, suggesting that subjects are learning faster with tactile feedback.
+- To avoid the Midas touch effect, tongue commands are usually defined in a complex way to avoid confusion with the daily oral activities, these new tongue movement require a lot of training. To find the more effective way to training the tongue to learn new command, my objective was to test the effectiveness of visual and tactile assistance on tongue motor learning and motor control. A closed loop wearable intraoral device was developed to provide electrotactile and visual feedback. A dental retaienr was custom=-made for each subject. The dental retainer consists of an electrodes array. 
+- For visual training, an array of LEDs was shown on the computer screen, When one electrode was contacted, the corresponding LED would lighten up. The further away from the target, the brighter the color of the LED. By this visual cue, they need to find the target location by their tongue tip. For tactile training, different frequency electrical stimulation was provided to the tongue. The further away from the target, the higher the stimulation frequency. By the tactile sensation, they need to find the target location.
+- The result shows that both tactile and visual feedback improved tongue motor control ability. But looking at the post training session, tactile training leads to stronger retention than visual training. And although not significant, but tactile training reached learning plateau after 6 trails of trainig, whereas visual groups took 11 trials, suggesting that subjects are learning faster with tactile feedback.
 
 `Electrotactile feedback` `Visual feedback` `Motor learning` `tongue` `Electrical stimulation` `Intraoral device` `Augmenting sensory feedbcak` 
 
