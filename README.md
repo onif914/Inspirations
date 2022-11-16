@@ -47,14 +47,24 @@ The advantages of intraoral assistive technology:
 > 
 > `Multifunctional assistive technology` `Intuitive command design`  `Biomedical device` `Hands-free controller` `Embedded system development` `Bidrectional Human-computer interface`
 
-### Tongue-controlled hands-free assistive technology (an intraoral module)
+### Tongue-controlled hands-free assistive technology (intraoral module for MORA)
 > 
 ![image](1_MORA.png)
 > 
 > We have developed an “intraoral module” for tongue-controlled assistive technologies for people withsevere disability to control their environment. And tested it’s basic functionality by doing some some computer access tasks.
 > To test the basic functionality of computer access, we tested with 11 subjects for: (1) random command task (target command appeared on the screen in random order, participants need to issue the corresponding command as fast and accurate as possible) and (2) Maze navigation task (guide cursor from start to end as fast and accurate as possible). The result of Maze navigation showed that the average completion time of eleven participants was much faster than SNP, as good as TDS. With this design, the tongue movement inside the mouth can be successfully translated into directional commands for navigation tasks.
 > 
-> `Assistive technology` `Human-computer interface` `Biomedical device` `Hands-free controller` `Embedded system development`
+> `Virtual Reality` `Assistive technology` `Human-computer interface` `Biomedical device`  `Embedded system development`
+
+
+### MORA as a Human-Wheelchair Interface(HWI)
+> 
+![image](1_MORA.png)
+> 
+> WI am working on developing a MORA-powered wheelchair (PWC) system for hands-free powered wheelchair pilot.
+Piloting the powered wheelchair without training is dangerous task. Especially for hands-free controllers. when unintentional commands are given, a novice user may Colliding with Obstacles and get injured. Therefore we developed a VR wheelchair training environment.
+> 
+> `Virtual reality` `Human-computer interface` `Biomedical device` `Hands-free controller` `Embedded system development`
 >
 
 ### Speech therapy using real-time closed-loop artificial feedback to the tongue 
