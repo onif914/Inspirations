@@ -32,6 +32,7 @@ I am working on developing bi-directional human-machine interface for people wit
 ## Research Projects
 
 ### Multifunctional Intraoral Assistive technology (MORA) with intuitive intraoral commands and sensory feedback
+
 > 
 ![image](assets/2_MORA.PNG)
 > 
@@ -46,6 +47,7 @@ The advantages of intraoral assistive technology:
   • Intraoral organs are controlled by cranial nerves, which is hardly damaged by SCI.
 > 
 > `Multifunctional assistive technology` `Intuitive command design`  `Biomedical device` `Hands-free controller` `Embedded system development` `Bidrectional Human-computer interface`
+
 ---
 ### Tongue-controlled hands-free assistive technology (intraoral module for MORA)
 > 
@@ -54,9 +56,9 @@ The advantages of intraoral assistive technology:
 > We have developed an “intraoral module” for tongue-controlled assistive technologies for people withsevere disability to control their environment. And tested it’s basic functionality by doing some some computer access tasks.
 > To test the basic functionality of computer access, we tested with 11 subjects for: (1) random command task (target command appeared on the screen in random order, participants need to issue the corresponding command as fast and accurate as possible) and (2) Maze navigation task (guide cursor from start to end as fast and accurate as possible). The result of Maze navigation showed that the average completion time of eleven participants was much faster than SNP, as good as TDS. With this design, the tongue movement inside the mouth can be successfully translated into directional commands for navigation tasks.
 > 
-> `Virtual Reality` `Assistive technology` `Human-computer interface` `Biomedical device`  `Embedded system development`
+> `Assistive technology` `Human-computer interface` `Biomedical device`  `Embedded system development`
 
-
+---
 ### MORA as a Human-Wheelchair Interface(HWI)
 > 
 ![image](assets/HWI.PNG)
@@ -65,7 +67,7 @@ The advantages of intraoral assistive technology:
 > 
 > `Virtual reality` `Human-computer interface` `Biomedical device` `Hands-free controller` `Embedded system development`
 >
-
+---
 ### Speech therapy using real-time closed-loop artificial feedback to the tongue 
 > 
 ![image](assets/Speech_therapy.PNG)
@@ -73,7 +75,8 @@ The advantages of intraoral assistive technology:
 > The purpose of this study was to investigate the importance of providing an error-augmented sensory feedback with proper spatiotemporal resolution for training and enhancing complex tongue motor coordination during speech. We present a wearable intraoral system that uses (1) an intraoral palatal retainer to monitor the tongue movement by optical distance sensors and (2) to provide sensory feedback to the tongue by stimulators. If the subject contacts the undesired palatal area during pronunciation, they will get the stimulation as an error feedback on their tongue tip. The result justified our hypothesis that intrinsic sensory feedback can be an effective way for tongue motor learning in speech therapy.
 > 
 > `Error-augmented sensory feedbcak` `Tongue motor control` `Speech therapy` `Embedded system development` `Closed-loop system`
->
+
+---
 ### Speech therapy using real-time closed-loop artificial feedback to the tongue 
 > 
 ![image](assets/TML.PNG)
