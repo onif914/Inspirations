@@ -46,7 +46,7 @@ The advantages of intraoral assistive technology:
   • Intraoral organs are controlled by cranial nerves, which is hardly damaged by SCI.
 > 
 > `Multifunctional assistive technology` `Intuitive command design`  `Biomedical device` `Hands-free controller` `Embedded system development` `Bidrectional Human-computer interface`
-
+---
 ### Tongue-controlled hands-free assistive technology (intraoral module for MORA)
 > 
 ![image](1_MORA.png)
