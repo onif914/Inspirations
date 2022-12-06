@@ -46,6 +46,7 @@ title: "reading"
 - [InInternational Conference on Human Haptic Sensing and Touch Enabled Computer Applications](https://link.springer.com/conference/eurohaptics)
 - [world haptics conference](https://2021.worldhaptics.org/)
 - [biomedical conference index](https://conferenceindex.org/conferences/biomedical)
+- [IEEE Healthcare Innovations and Point of Care Technologies (HI-POCT)](https://embs.papercept.net/conferences/scripts/start.pl)
 
 **Other journal options**
 - [Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=tciv20)
