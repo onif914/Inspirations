@@ -1,7 +1,6 @@
 ---
-title: "Projects"
-permalink: "/about/"
-layout: page
+layour:default
+title: "Research"
 ---
 
 ## 1. Wearable assistive technologies
