@@ -1,4 +1,4 @@
-title: "Kelly's webpage"
+ctitle: "Kelly's webpage"
 author: "Kelly J"
 description: "TAMU"
 permalink: /:title/
@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html",title:"some stuff"}
   - {file: "README.md",title:"About"}
-  - {file: "README.md",title:"Research"}
+  - {file: "Projects.md",title:"Research"}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Linkedin, icon: envelope, url: "https://www.linkedin.com/in/bing-jiang-542901128/"}
 
