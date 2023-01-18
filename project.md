@@ -4,9 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-## Projects
 ## Research Projects
 
+## Wearable assistive technologies
 ### Multifunctional Intraoral Assistive technology (MORA) with intuitive intraoral commands and sensory feedback
 
 > 
@@ -45,6 +45,9 @@ The advantages of intraoral assistive technology:
 `Virtual reality` `Human-computer interface` `Biomedical device` `Hands-free controller` `Embedded system development`
 
 ---
+
+
+## Neuro modulation for motor learning
 ### Speech therapy using real-time closed-loop artificial feedback to the tongue 
  
 ![image](assets/Speech_therapy.PNG)
