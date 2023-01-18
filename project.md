@@ -4,10 +4,8 @@ permalink: "/about/"
 layout: page
 ---
 
-## Research Projects
-
-## Wearable assistive technologies
-### Multifunctional Intraoral Assistive technology (MORA) with intuitive intraoral commands and sensory feedback
+## 1. Wearable assistive technologies
+### (1) Multifunctional Intraoral Assistive technology (MORA) with intuitive intraoral commands and sensory feedback
 
 > 
 ![image](assets/2_MORA.PNG)
@@ -25,7 +23,7 @@ The advantages of intraoral assistive technology:
 `Multifunctional assistive technology` `Intuitive command design`  `Biomedical device` `Hands-free controller` `Embedded system development` `Bidrectional Human-computer interface`
 
 ---
-### Tongue-controlled hands-free assistive technology (intraoral module for MORA)
+### (2) Tongue-controlled hands-free assistive technology (intraoral module for MORA)
 > 
 ![image](1_MORA.png)
 
@@ -35,7 +33,7 @@ The advantages of intraoral assistive technology:
 `Assistive technology` `Human-computer interface` `Biomedical device`  `Embedded system development`
 
 ---
-### MORA as a Human-Wheelchair Interface(HWI)
+### (3)MORA as a Human-Computer/Wheelchair Interface(HWI)
  
 ![image](assets/HWI.PNG)
  
@@ -47,8 +45,8 @@ The advantages of intraoral assistive technology:
 ---
 
 
-## Neuro modulation for motor learning
-### Speech therapy using real-time closed-loop artificial feedback to the tongue 
+## 2. Neuro modulation for motor learning
+### (1) Speech therapy using real-time closed-loop artificial feedback to the tongue 
  
 ![image](assets/Speech_therapy.PNG)
  
@@ -58,7 +56,7 @@ The advantages of intraoral assistive technology:
 `Error-augmented sensory feedbcak` `Tongue motor control` `Speech therapy` `Embedded system development` `Closed-loop system`
 
 ---
-### Speech therapy using real-time closed-loop artificial feedback to the tongue 
+### (2)Tongue motor learning by neuromodulation 
 
 ![image](assets/TML.PNG)
 
