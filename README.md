@@ -45,7 +45,7 @@ The advantages of intraoral assistive technology:
 - Robust, therefore less likely to be effected by the environment.
 - Intraoral muscle don’t fatigue as fast as other muscles.
 - Intraoral organs are controlled by cranial nerves, which is hardly damaged by SCI.
-- Prototype for the intraoral module:https://drive.google.com/file/d/1x3rWHUkTfMlaRTCVqCa1bdhwuiOkryRX/view?usp=sharing
+
 
 `Multifunctional assistive technology` `Intuitive command design`  `Biomedical device` `Hands-free controller` `Embedded system development` `Bidrectional Human-computer interface`
 
@@ -56,6 +56,7 @@ The advantages of intraoral assistive technology:
 
 - We have developed an “intraoral module” for tongue-controlled assistive technologies for people withsevere disability to control their environment. And tested it’s basic functionality by doing some some computer access tasks.
 - To test the basic functionality of computer access, we tested with 11 subjects for: (1) random command task (target command appeared on the screen in random order, participants need to issue the corresponding command as fast and accurate as possible) and (2) Maze navigation task (guide cursor from start to end as fast and accurate as possible). The result of Maze navigation showed that the average completion time of eleven participants was much faster than SNP, as good as TDS. With this design, the tongue movement inside the mouth can be successfully translated into directional commands for navigation tasks.
+- Demo of Prototype for the intraoral module:https://drive.google.com/file/d/1x3rWHUkTfMlaRTCVqCa1bdhwuiOkryRX/view?usp=sharing
 
 `Assistive technology` `Human-computer interface` `Biomedical device`  `Embedded system development`
 
