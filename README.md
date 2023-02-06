@@ -102,5 +102,5 @@ The advantages of intraoral assistive technology:
 ---
 
 ### IV. EaseOSA - The Intraoral Monitor for Obstructive Sleep Apnea
-![image](https://user-images.githubusercontent.com/47716688/216887400-6b8ba92e-c91f-4aa7-8efb-fd785cd091a1.png)
+![image](https://user-images.githubusercontent.com/47716688/217067096-4871bc7e-d3ee-406d-890e-9ff65f12fbb4.png)
 
