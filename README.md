@@ -61,6 +61,10 @@ The advantages of intraoral assistive technology:
 `Assistive technology` `Human-computer interface` `Biomedical device`  `Embedded system development`
 
 ---
+### Tongue Typing
+![image](https://user-images.githubusercontent.com/47716688/216877792-f9dc553f-f133-4010-85de-678d5fec4e49.png)
+
+---
 ### MORA as a Human-Wheelchair Interface(HWI)
  
 ![image](assets/HWI.PNG)
@@ -69,6 +73,10 @@ The advantages of intraoral assistive technology:
 - Piloting the powered wheelchair without training is dangerous task, especially for hands-free controllers. When unintentional commands are given, a novice user may Colliding with Obstacles and get injured. Therefore we developed a VR wheelchair training environment.
 
 `Virtual reality` `Human-computer interface` `Biomedical device` `Hands-free controller` `Embedded system development`
+
+---
+### Improving Tongue Command Accuracy: Unlocking the Power of Electrotactile Feedback Training
+![image](https://user-images.githubusercontent.com/47716688/216878167-9119950b-53a4-43e1-b19f-44fd70b0daa0.png)
 
 ---
 ### Speech therapy using real-time closed-loop artificial feedback to the tongue 
