@@ -31,7 +31,7 @@ I am working on developing bi-directional human-machine interface for people wit
 
 ## Research Projects
 
-### Multifunctional Intraoral Assistive technology (MORA) with intuitive intraoral commands and sensory feedback
+### I. Multifunctional Intraoral Assistive technology (MORA) with intuitive intraoral commands and sensory feedback
 
 > 
 ![image](assets/2_MORA.PNG)
@@ -50,7 +50,7 @@ The advantages of intraoral assistive technology:
 `Multifunctional assistive technology` `Intuitive command design`  `Biomedical device` `Hands-free controller` `Embedded system development` `Bidrectional Human-computer interface`
 
 ---
-### Tongue-controlled hands-free assistive technology (intraoral module for MORA)
+### 1. Tongue-controlled hands-free assistive technology (intraoral module for MORA)
 > 
 ![image](1_MORA.png)
 
@@ -61,11 +61,11 @@ The advantages of intraoral assistive technology:
 `Assistive technology` `Human-computer interface` `Biomedical device`  `Embedded system development`
 
 ---
-### Tongue Typing
+### 2. Tongue Typing
 ![image](https://user-images.githubusercontent.com/47716688/216877792-f9dc553f-f133-4010-85de-678d5fec4e49.png)
 
 ---
-### MORA as a Human-Wheelchair Interface(HWI)
+### 3. MORA as a Human-Wheelchair Interface(HWI)
  
 ![image](assets/HWI.PNG)
  
@@ -75,11 +75,11 @@ The advantages of intraoral assistive technology:
 `Virtual reality` `Human-computer interface` `Biomedical device` `Hands-free controller` `Embedded system development`
 
 ---
-### Improving Tongue Command Accuracy: Unlocking the Power of Electrotactile Feedback Training
-![image](https://user-images.githubusercontent.com/47716688/216878167-9119950b-53a4-43e1-b19f-44fd70b0daa0.png)
+### 4. Improving Tongue Command Accuracy: Unlocking the Power of Electrotactile Feedback Training
+![image](https://user-images.githubusercontent.com/47716688/216879400-5d3aa098-5bfe-43c7-b113-21ac175ed150.png)
 
 ---
-### Speech therapy using real-time closed-loop artificial feedback to the tongue 
+### II. Speech therapy using real-time closed-loop artificial feedback to the tongue 
  
 ![image](assets/Speech_therapy.PNG)
  
@@ -89,7 +89,7 @@ The advantages of intraoral assistive technology:
 `Error-augmented sensory feedbcak` `Tongue motor control` `Speech therapy` `Embedded system development` `Closed-loop system`
 
 ---
-### Speech therapy using real-time closed-loop artificial feedback to the tongue 
+### III. Speech therapy using real-time closed-loop artificial feedback to the tongue 
 
 ![image](assets/TML.PNG)
 
@@ -97,4 +97,8 @@ The advantages of intraoral assistive technology:
 
 `Electrotactile feedback` `Visual feedback` `Motor learning` `tongue` `Electrical stimulation` `Intraoral device` `Augmenting sensory feedbcak` 
 
+---
+
+### IV. EaseOSA - The Intraoral Monitor for Obstructive Sleep Apnea
+![image](https://user-images.githubusercontent.com/47716688/216887400-6b8ba92e-c91f-4aa7-8efb-fd785cd091a1.png)
 
