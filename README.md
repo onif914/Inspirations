@@ -68,6 +68,8 @@ The advantages of intraoral assistive technology:
 ### 3. MORA as a Human-Wheelchair Interface(HWI)
  
 ![image](assets/HWI.PNG)
+![image](https://user-images.githubusercontent.com/47716688/216888206-2ddbe370-a2f1-4376-93f5-32d946eb8d71.png)
+
  
 - We are working on developing a MORA-powered wheelchair (PWC) system for hands-free powered wheelchair pilot.
 - Piloting the powered wheelchair without training is dangerous task, especially for hands-free controllers. When unintentional commands are given, a novice user may Colliding with Obstacles and get injured. Therefore we developed a VR wheelchair training environment.
