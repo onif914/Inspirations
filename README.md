@@ -68,7 +68,6 @@ The advantages of intraoral assistive technology:
 ### 3. MORA as a Human-Wheelchair Interface(HWI)
  
 ![image](assets/HWI.PNG)
-![image](https://user-images.githubusercontent.com/47716688/216888206-2ddbe370-a2f1-4376-93f5-32d946eb8d71.png)
 
  
 - We are working on developing a MORA-powered wheelchair (PWC) system for hands-free powered wheelchair pilot.
@@ -78,7 +77,6 @@ The advantages of intraoral assistive technology:
 
 ---
 ### 4. Improving Tongue Command Accuracy: Unlocking the Power of Electrotactile Feedback Training
-![image](https://user-images.githubusercontent.com/47716688/216879400-5d3aa098-5bfe-43c7-b113-21ac175ed150.png)
 
 ---
 ### II. Speech therapy using real-time closed-loop artificial feedback to the tongue 
@@ -102,5 +100,4 @@ The advantages of intraoral assistive technology:
 ---
 
 ### IV. EaseOSA - The Intraoral Monitor for Obstructive Sleep Apnea
-![image](https://user-images.githubusercontent.com/47716688/217067096-4871bc7e-d3ee-406d-890e-9ff65f12fbb4.png)
 
