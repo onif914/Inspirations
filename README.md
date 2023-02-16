@@ -77,6 +77,7 @@ The advantages of intraoral assistive technology:
 
 ---
 ### 4. Improving Tongue Command Accuracy: Unlocking the Power of Electrotactile Feedback Training
+![image](https://user-images.githubusercontent.com/47716688/219388918-ba0fd0e3-9543-4f59-a97e-61cc7d6caa98.png)
 
 ---
 ### II. Speech therapy using real-time closed-loop artificial feedback to the tongue 
@@ -100,4 +101,5 @@ The advantages of intraoral assistive technology:
 ---
 
 ### IV. EaseOSA - The Intraoral Monitor for Obstructive Sleep Apnea
+![image](https://user-images.githubusercontent.com/47716688/219388819-dd760d82-9a7d-4d21-a144-f6d24c700b34.png)
 
