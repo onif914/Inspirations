@@ -3,11 +3,12 @@ title: "Bing Jiang (Kelly)"
 permalink: "/about/"
 layout: page
 ---
+![My project-1](https://user-images.githubusercontent.com/47716688/222044444-f4520f74-4094-4698-a843-b0b47172740b.png)
 
 ## About me
 
 I am working on developing: 
-- Bi-directional hands-free assistive technolgy
+- Multifunctional intraORal Assistive technolgy(MORA)
 - Bi-directional human-machine interface
 - Neuromodulation by close-loop electical stimulaiton
 - VR-based system for healthcare applications
