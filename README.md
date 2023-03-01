@@ -3,7 +3,8 @@ title: "Bing Jiang (Kelly)"
 permalink: "/about/"
 layout: page
 ---
-![image](https://user-images.githubusercontent.com/47716688/222044534-b33a2c30-4dd7-47ca-a3e0-776905e6976c.png)
+![image](https://user-images.githubusercontent.com/47716688/222045827-c34dfa1d-7911-49f7-8360-094607ea3740.png)
+
 
 ## About me
 
