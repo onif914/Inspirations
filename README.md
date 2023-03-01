@@ -6,7 +6,15 @@ layout: page
 
 ## About me
 
-I am working on developing bi-directional human-machine interface for people with severe disability, VR-based system for healthcare applications, and designing experiment, interviews and questionnaires to evaluate system usability as well as the human factor. I am also interested in integrating sensory (e.g., haptic, vibrotactile, electrotactile) feedback for human motor learning and rehabilitation, and developing multi-sensor system to monitor user’s sleep quality. I am familiar with rapid prototype, embedded system development, and methods for quantitative and qualitative human-machine interaction evaluation.
+I am working on developing: 
+- Bi-directional hands-free assistive technolgy
+- Bi-directional human-machine interface
+- Neuromodulation by close-loop electical stimulaiton
+- VR-based system for healthcare applications
+- Quantitative and qualitative data analysis
+- Uniting virtual and physical world by sensory feedback 
+- Integrating sensory (e.g., haptic, vibrotactile, electrotactile) feedback for human motor learning and rehabilitation
+- Healthcare applicaiton for obstructive sleep apnea
 
 ## Eduaction
 
