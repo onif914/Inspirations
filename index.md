@@ -4,7 +4,7 @@ title: "reading"
 ---
 **Slides**
 - [Sampling teaching](https://docs.google.com/presentation/d/1fMIPi6SBpfmlVlp9KsXWx6MVwXTxCT2EJddQIFy4EbU/edit?usp=sharing)
-- [Leakage](https://youtu.be/i4uk0eH73HY))
+- [Leakage](https://youtu.be/i4uk0eH73HY)
 - [Guest lecture Slides](https://docs.google.com/presentation/d/1yfTiVgG11OJyodFzqhVmtRYBK29Zuum-/edit?usp=sharing&ouid=109460573329931604647&rtpof=true&sd=true)
 - [Online EV scheduling - ECEN 689 online decision making midterm](https://docs.google.com/presentation/d/1d7UHq4GB7jhQtLanUzdrkQhYbzlaM8a6/edit?usp=sharing&ouid=109460573329931604647&rtpof=true&sd=true)
 - [Velostim]()
